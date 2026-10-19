@@ -1,5 +1,7 @@
 # Modèles VGP gratuits : tableau de suivi Excel, registre de sécurité, rapport à imprimer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23470017.svg)](https://doi.org/10.5281/zenodo.23470017)
+
 Classeurs Excel et trames Word gratuits pour préparer, documenter et suivre les **vérifications générales périodiques (VGP)** des appareils et accessoires de levage : chariots élévateurs, nacelles, grues, palans, hayons, élingues.
 
 Chaque fichier est la version publiée sur [modele-vgp.fr](https://modele-vgp.fr/modeles/), où vous trouverez aussi la notice de chaque trame et les sources de chaque champ.
@@ -46,6 +48,6 @@ Ce sont des outils de travail, pas des documents de conformité : le rapport de 
 
 ## Licence et citation
 
-[CC BY 4.0](LICENSE) : réutilisation, modification et diffusion libres, y compris commerciales, en citant « modele-vgp.fr ». Pour citer ce dépôt, voir [`CITATION.cff`](CITATION.cff).
+[CC BY 4.0](LICENSE) : réutilisation, modification et diffusion libres, y compris commerciales, en citant « modele-vgp.fr ». Pour citer ces modèles : Gibert, G. (2026). *Modèles VGP gratuits* (v1.0.0). modele-vgp.fr. https://doi.org/10.5281/zenodo.23470017
 
 Une erreur, une trame à ajouter : ouvrez une [issue](../../issues).
