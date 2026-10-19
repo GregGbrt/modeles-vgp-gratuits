@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si vous réutilisez ces modèles, citez-les ainsi."
+title: "Modèles VGP gratuits : tableau de suivi Excel, registre de sécurité et trames de vérification des appareils de levage"
+type: dataset
+authors:
+  - family-names: Gibert
+    given-names: Grégory
+    affiliation: modele-vgp.fr
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-4.0
+url: "https://modele-vgp.fr/modeles/"
+repository-code: "https://github.com/GregGbrt/modeles-vgp-gratuits"
+keywords:
+  - VGP
+  - vérification générale périodique
+  - appareils de levage
+  - registre de sécurité
+  - Excel
+  - prévention

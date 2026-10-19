@@ -1,0 +1,10 @@
+{
+  "title": "Modèles VGP gratuits : tableau de suivi Excel, registre de sécurité et trames de vérification des appareils de levage",
+  "upload_type": "dataset",
+  "description": "<p>Classeurs Excel et trames Word gratuits pour préparer, documenter et suivre les vérifications générales périodiques (VGP) des appareils et accessoires de levage, d'après l'arrêté du 1er mars 2004 et la brochure INRS ED 6339. Notices et sources : <a href=\"https://modele-vgp.fr/modeles/\">modele-vgp.fr/modeles</a>.</p>",
+  "creators": [{ "name": "Gibert, Grégory", "affiliation": "modele-vgp.fr" }],
+  "license": "cc-by-4.0",
+  "language": "fra",
+  "keywords": ["VGP", "vérification générale périodique", "appareils de levage", "registre de sécurité", "Excel", "prévention des risques"],
+  "related_identifiers": [{ "identifier": "https://modele-vgp.fr/modeles/", "relation": "isSupplementTo", "scheme": "url" }]
+}
