@@ -6,7 +6,7 @@ authors:
   - family-names: Gibert
     given-names: Grégory
     affiliation: modele-vgp.fr
-version: 1.0.0
+version: 1.1.0
 doi: 10.5281/zenodo.23470017
 date-released: 2026-10-19
 license: CC-BY-4.0

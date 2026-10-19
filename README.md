@@ -16,6 +16,8 @@ Chaque fichier est la version publiée sur [modele-vgp.fr](https://modele-vgp.fr
 
 Chaque classeur contient un tableau de bord, un onglet d'exemple rempli et un mode d'emploi. Aucune macro.
 
+Les trames Word ont des cases à cocher cliquables et une place pour votre logo. Sur le site, chaque trame se remplit aussi directement à l'écran avant impression.
+
 ## Trames Word et CSV
 
 | Trame | Word | CSV |
@@ -48,6 +50,6 @@ Ce sont des outils de travail, pas des documents de conformité : le rapport de 
 
 ## Licence et citation
 
-[CC BY 4.0](LICENSE) : réutilisation, modification et diffusion libres, y compris commerciales, en citant « modele-vgp.fr ». Pour citer ces modèles : Gibert, G. (2026). *Modèles VGP gratuits* (v1.0.0). modele-vgp.fr. https://doi.org/10.5281/zenodo.23470017
+[CC BY 4.0](LICENSE) : réutilisation, modification et diffusion libres, y compris commerciales, en citant « modele-vgp.fr ». Pour citer ces modèles : Gibert, G. (2026). *Modèles VGP gratuits* (v1.1.0). modele-vgp.fr. https://doi.org/10.5281/zenodo.23470017
 
 Une erreur, une trame à ajouter : ouvrez une [issue](../../issues).
